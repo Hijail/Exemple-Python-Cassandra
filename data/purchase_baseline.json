@@ -1,0 +1,802 @@
+[
+  {
+    "amount": 8.14,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T08:00:00+00:00"
+  },
+  {
+    "amount": 9.92,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:01:00+00:00"
+  },
+  {
+    "amount": 6.92,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:02:00+00:00"
+  },
+  {
+    "amount": 6.97,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T08:03:00+00:00"
+  },
+  {
+    "amount": 5.78,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:04:00+00:00"
+  },
+  {
+    "amount": 8.74,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:05:00+00:00"
+  },
+  {
+    "amount": 10.04,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:06:00+00:00"
+  },
+  {
+    "amount": 5.89,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:07:00+00:00"
+  },
+  {
+    "amount": 7.3,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T09:08:00+00:00"
+  },
+  {
+    "amount": 7.4,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:09:00+00:00"
+  },
+  {
+    "amount": 6.25,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:10:00+00:00"
+  },
+  {
+    "amount": 8.49,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:11:00+00:00"
+  },
+  {
+    "amount": 5.16,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:12:00+00:00"
+  },
+  {
+    "amount": 8.3,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:13:00+00:00"
+  },
+  {
+    "amount": 5.58,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T10:14:00+00:00"
+  },
+  {
+    "amount": 3.64,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T17:15:00+00:00"
+  },
+  {
+    "amount": 8.87,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T12:16:00+00:00"
+  },
+  {
+    "amount": 6.13,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T17:17:00+00:00"
+  },
+  {
+    "amount": 8.69,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T09:18:00+00:00"
+  },
+  {
+    "amount": 7.96,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T10:19:00+00:00"
+  },
+  {
+    "amount": 7.19,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:20:00+00:00"
+  },
+  {
+    "amount": 5.15,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:21:00+00:00"
+  },
+  {
+    "amount": 8.56,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:22:00+00:00"
+  },
+  {
+    "amount": 3.61,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:23:00+00:00"
+  },
+  {
+    "amount": 9.35,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T10:24:00+00:00"
+  },
+  {
+    "amount": 3.84,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T12:25:00+00:00"
+  },
+  {
+    "amount": 8.2,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T20:26:00+00:00"
+  },
+  {
+    "amount": 6.21,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T08:27:00+00:00"
+  },
+  {
+    "amount": 6.17,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T17:28:00+00:00"
+  },
+  {
+    "amount": 5.15,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T17:29:00+00:00"
+  },
+  {
+    "amount": 9.22,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:30:00+00:00"
+  },
+  {
+    "amount": 5.83,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:31:00+00:00"
+  },
+  {
+    "amount": 7.75,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T08:32:00+00:00"
+  },
+  {
+    "amount": 7.87,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T12:33:00+00:00"
+  },
+  {
+    "amount": 8.14,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:34:00+00:00"
+  },
+  {
+    "amount": 5.81,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T18:35:00+00:00"
+  },
+  {
+    "amount": 7.8,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:36:00+00:00"
+  },
+  {
+    "amount": 8.54,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T08:37:00+00:00"
+  },
+  {
+    "amount": 9.57,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:38:00+00:00"
+  },
+  {
+    "amount": 3.9,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T17:39:00+00:00"
+  },
+  {
+    "amount": 5.06,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T10:40:00+00:00"
+  },
+  {
+    "amount": 6.51,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:41:00+00:00"
+  },
+  {
+    "amount": 8.92,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:42:00+00:00"
+  },
+  {
+    "amount": 7.25,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:43:00+00:00"
+  },
+  {
+    "amount": 7.08,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T18:44:00+00:00"
+  },
+  {
+    "amount": 6.93,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:45:00+00:00"
+  },
+  {
+    "amount": 4.0,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:46:00+00:00"
+  },
+  {
+    "amount": 4.54,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:47:00+00:00"
+  },
+  {
+    "amount": 3.73,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T10:48:00+00:00"
+  },
+  {
+    "amount": 4.47,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:49:00+00:00"
+  },
+  {
+    "amount": 8.62,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:50:00+00:00"
+  },
+  {
+    "amount": 6.34,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T08:51:00+00:00"
+  },
+  {
+    "amount": 5.62,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:52:00+00:00"
+  },
+  {
+    "amount": 6.16,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T12:53:00+00:00"
+  },
+  {
+    "amount": 5.07,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:54:00+00:00"
+  },
+  {
+    "amount": 6.37,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:55:00+00:00"
+  },
+  {
+    "amount": 6.36,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:56:00+00:00"
+  },
+  {
+    "amount": 8.24,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:57:00+00:00"
+  },
+  {
+    "amount": 2.09,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:58:00+00:00"
+  },
+  {
+    "amount": 5.04,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:59:00+00:00"
+  },
+  {
+    "amount": 4.92,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:00:00+00:00"
+  },
+  {
+    "amount": 2.97,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:01:00+00:00"
+  },
+  {
+    "amount": 11.06,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:02:00+00:00"
+  },
+  {
+    "amount": 8.58,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:03:00+00:00"
+  },
+  {
+    "amount": 4.59,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:04:00+00:00"
+  },
+  {
+    "amount": 4.95,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:05:00+00:00"
+  },
+  {
+    "amount": 5.46,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:06:00+00:00"
+  },
+  {
+    "amount": 6.29,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:07:00+00:00"
+  },
+  {
+    "amount": 8.57,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:08:00+00:00"
+  },
+  {
+    "amount": 6.01,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:09:00+00:00"
+  },
+  {
+    "amount": 6.92,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:10:00+00:00"
+  },
+  {
+    "amount": 2.75,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:11:00+00:00"
+  },
+  {
+    "amount": 6.27,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:12:00+00:00"
+  },
+  {
+    "amount": 6.22,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T11:13:00+00:00"
+  },
+  {
+    "amount": 7.77,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:14:00+00:00"
+  },
+  {
+    "amount": 7.87,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:15:00+00:00"
+  },
+  {
+    "amount": 7.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:16:00+00:00"
+  },
+  {
+    "amount": 5.24,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:17:00+00:00"
+  },
+  {
+    "amount": 7.78,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T13:18:00+00:00"
+  },
+  {
+    "amount": 7.56,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:19:00+00:00"
+  },
+  {
+    "amount": 10.34,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:20:00+00:00"
+  },
+  {
+    "amount": 4.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:21:00+00:00"
+  },
+  {
+    "amount": 8.82,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:22:00+00:00"
+  },
+  {
+    "amount": 5.56,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:23:00+00:00"
+  },
+  {
+    "amount": 7.38,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T11:24:00+00:00"
+  },
+  {
+    "amount": 8.01,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:25:00+00:00"
+  },
+  {
+    "amount": 7.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:26:00+00:00"
+  },
+  {
+    "amount": 7.26,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:27:00+00:00"
+  },
+  {
+    "amount": 7.39,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:28:00+00:00"
+  },
+  {
+    "amount": 3.71,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:29:00+00:00"
+  },
+  {
+    "amount": 6.01,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T19:30:00+00:00"
+  },
+  {
+    "amount": 6.25,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:31:00+00:00"
+  },
+  {
+    "amount": 3.98,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:32:00+00:00"
+  },
+  {
+    "amount": 3.72,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:33:00+00:00"
+  },
+  {
+    "amount": 5.65,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T21:34:00+00:00"
+  },
+  {
+    "amount": 7.51,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:35:00+00:00"
+  },
+  {
+    "amount": 5.48,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T19:36:00+00:00"
+  },
+  {
+    "amount": 7.89,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:37:00+00:00"
+  },
+  {
+    "amount": 2.71,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:38:00+00:00"
+  },
+  {
+    "amount": 7.51,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:39:00+00:00"
+  },
+  {
+    "amount": 9.93,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:40:00+00:00"
+  },
+  {
+    "amount": 8.62,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:41:00+00:00"
+  },
+  {
+    "amount": 7.59,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T18:42:00+00:00"
+  },
+  {
+    "amount": 2.74,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:43:00+00:00"
+  },
+  {
+    "amount": 4.76,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:44:00+00:00"
+  },
+  {
+    "amount": 7.1,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:45:00+00:00"
+  },
+  {
+    "amount": 5.0,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T09:46:00+00:00"
+  },
+  {
+    "amount": 6.29,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T21:47:00+00:00"
+  },
+  {
+    "amount": 9.26,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:48:00+00:00"
+  },
+  {
+    "amount": 7.95,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:49:00+00:00"
+  },
+  {
+    "amount": 6.21,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:50:00+00:00"
+  },
+  {
+    "amount": 5.67,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:51:00+00:00"
+  },
+  {
+    "amount": 9.34,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T14:52:00+00:00"
+  },
+  {
+    "amount": 6.86,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:53:00+00:00"
+  },
+  {
+    "amount": 4.5,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:54:00+00:00"
+  },
+  {
+    "amount": 7.95,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T13:55:00+00:00"
+  },
+  {
+    "amount": 3.62,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:56:00+00:00"
+  },
+  {
+    "amount": 4.87,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:57:00+00:00"
+  },
+  {
+    "amount": 5.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:58:00+00:00"
+  },
+  {
+    "amount": 7.59,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:59:00+00:00"
+  },
+  {
+    "amount": 9.27,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T23:00:00+00:00"
+  },
+  {
+    "amount": 4.8,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:01:00+00:00"
+  },
+  {
+    "amount": 7.93,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:02:00+00:00"
+  },
+  {
+    "amount": 2.39,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:03:00+00:00"
+  },
+  {
+    "amount": 6.81,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T15:04:00+00:00"
+  },
+  {
+    "amount": 5.43,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:05:00+00:00"
+  },
+  {
+    "amount": 9.77,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:06:00+00:00"
+  },
+  {
+    "amount": 7.74,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T23:07:00+00:00"
+  },
+  {
+    "amount": 6.93,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T15:08:00+00:00"
+  },
+  {
+    "amount": 6.79,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:09:00+00:00"
+  },
+  {
+    "amount": 3.43,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:10:00+00:00"
+  },
+  {
+    "amount": 8.2,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:11:00+00:00"
+  },
+  {
+    "amount": 8.4,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:12:00+00:00"
+  },
+  {
+    "amount": 6.01,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:13:00+00:00"
+  },
+  {
+    "amount": 5.06,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:14:00+00:00"
+  },
+  {
+    "amount": 7.57,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T20:15:00+00:00"
+  },
+  {
+    "amount": 8.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:16:00+00:00"
+  },
+  {
+    "amount": 7.28,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T19:17:00+00:00"
+  },
+  {
+    "amount": 8.65,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T21:18:00+00:00"
+  },
+  {
+    "amount": 5.12,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:19:00+00:00"
+  },
+  {
+    "amount": 7.97,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:20:00+00:00"
+  },
+  {
+    "amount": 5.19,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T10:21:00+00:00"
+  },
+  {
+    "amount": 8.43,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:22:00+00:00"
+  },
+  {
+    "amount": 7.28,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T14:23:00+00:00"
+  },
+  {
+    "amount": 4.75,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T23:24:00+00:00"
+  },
+  {
+    "amount": 7.73,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T15:25:00+00:00"
+  },
+  {
+    "amount": 6.52,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T14:26:00+00:00"
+  },
+  {
+    "amount": 5.1,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T23:27:00+00:00"
+  },
+  {
+    "amount": 9.57,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T15:28:00+00:00"
+  },
+  {
+    "amount": 7.38,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:29:00+00:00"
+  },
+  {
+    "amount": 5.71,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T12:30:00+00:00"
+  },
+  {
+    "amount": 6.94,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T21:31:00+00:00"
+  },
+  {
+    "amount": 9.42,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T15:32:00+00:00"
+  },
+  {
+    "amount": 8.51,
+    "quantity": 2,
+    "occurred_at": "2026-10-01T23:33:00+00:00"
+  },
+  {
+    "amount": 9.35,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T23:34:00+00:00"
+  },
+  {
+    "amount": 8.33,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:35:00+00:00"
+  },
+  {
+    "amount": 7.2,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:36:00+00:00"
+  },
+  {
+    "amount": 8.53,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T22:37:00+00:00"
+  },
+  {
+    "amount": 5.43,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T11:38:00+00:00"
+  },
+  {
+    "amount": 5.52,
+    "quantity": 1,
+    "occurred_at": "2026-10-01T19:39:00+00:00"
+  }
+]
