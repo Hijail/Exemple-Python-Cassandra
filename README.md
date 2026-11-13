@@ -63,6 +63,13 @@ pytest -q
 
 `--dry-run` exécute extraction, validation, transformations et scoring sans connexion Cassandra.
 
+Pour mesurer la couverture des tests unitaires :
+
+```bash
+python -m pip install -r requirements-dev.txt
+python -m pytest --cov=app --cov-report=term-missing
+```
+
 ## 4. Dashboard Cassandra
 
 Après installation des dépendances et démarrage de Cassandra, lancer l'interface :
